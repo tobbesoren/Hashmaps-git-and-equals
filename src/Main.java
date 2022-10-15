@@ -30,7 +30,5 @@ public class Main {
 
         // Delete operation. Returns removed value! (It will print 12)
         System.out.println(myMap.remove("Tobbe"));
-
-
     }
 }
